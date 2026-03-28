@@ -1,3 +1,10 @@
 tenv
 
 .env
+
+
+__pycache__/
+.ipynb_checkpoints/
+.env
+.gitattributes
+.venv
