@@ -7,10 +7,7 @@ An automated system to generate optimized college/university timetables using Ar
 Follow these steps to set up the project on your local machine.
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/Aanand2204/Generative-Timetable-using-Genetic-Algorithm.git
-cd Generative-Timetable-using-Genetic-Algorithm
-```
+You can clone this repository.
 
 ### 2. Prerequisites
 - Python 3.8+
